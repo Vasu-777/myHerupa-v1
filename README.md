@@ -1,16 +1,8 @@
 # ninjaproject
 
-Font Used = 'Raleway' Link  = "https://fonts.googleapis.com/css?family=Raleway" 
-Font Used = 'Roboto' Link = "https://font.google.com/css/css?family=Roboto"
-Font Size = 62.5% (10px)
-
-Naming convention for classes : base-class base-class__component<br>
-  eg. btn btn__about-us
-  eg. header header__heading
-
-Installing dependencies : 
-  1. Install node.js
-  2. run "npm install" from the main directory. 
-     Node will automatically scan the package.json file and install the dependencies.
+- myHerupa is an open-source project which serves as a one-stop destination for all the academic needs of Thapar University students.
+- Designed and developed the website from scratch using HTML, CSS, SASS & JavaScript. The website has 6,000 active users, 9.5 Million page views & 1,000+ downloads on its app on Playstore.
+- Integrated Google Calendar and the university’s academic timetable using Google Sheets & Google Calendar API, a feature that 2,000+ users used.
+- Increased user retention on the website by 100% by using the Google Drive API, replacing the previous approach of redirecting users to a Google Drive folder.
 
 Thanks for visiting.
